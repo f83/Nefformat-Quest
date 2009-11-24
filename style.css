@@ -1,0 +1,30 @@
+.main {
+  font-family		: Arial, Helvetica, sans-serif;
+  font-size		: 9pt;
+  color			: white;
+; border: #666666}
+
+a {
+  font-family		: Arial, Helvetica, sans-serif;
+  font-weight		: bold;
+  color			: #FFCC00;
+  text-decoration	: none;
+  font-size		: 9pt;
+}
+
+a:hover	{
+  color			: white;
+}
+
+a.title {
+  color			: #CCCCCC;
+  font-size		: 12pt;
+  text-decoration	: underline;
+}
+
+td.sideboxes {
+  font-family		: Arial, Helvetica, sans-serif;
+  color			: white;
+  font-size		: 9pt;
+  text-align		: center;
+}

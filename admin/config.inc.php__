@@ -1,0 +1,4 @@
+<?php
+
+// Ќастройки базы данных   $dblocation = "localhost"; //хост базы данных    $dbname = "f83";     //им€ базы данных   $dblogin = "f83";         //логин дл€ базы данных   $dbpasswd = "rfqawsed";            //пароль дл€ базы данных
+   $dbpref = "pfx_";?>
