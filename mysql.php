@@ -1,4 +1,3 @@
-//GIT TEST
 <?php
 
     mysql_connect("localhost", "root", "8246017935") or die (mysql_error());
